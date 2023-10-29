@@ -6,7 +6,7 @@ Configure your own rules in the config.js file, restart the script and your rule
 
 ## Support
 Support is available for all my scripts in my discord:
-discord.gg/GZVTe2WNeF
+https://discord.gg/GZVTe2WNeF
 
 If you want to get Framework related support, join the Main Power discord:
 https://discord.gg/bJGNV3FJac
